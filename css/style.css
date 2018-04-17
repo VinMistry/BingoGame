@@ -1,0 +1,79 @@
+/* Main/Default Styles */
+body {
+color:#000;
+text-align: center;
+font-family: sans-serif;
+font-size: 50px;
+}
+
+h1{
+    font-size: 100px;
+}
+hr {
+border-color: black;
+}
+input{
+    border-style: none;
+    text-align: center;
+    font-size: 100px;
+}
+.btn{
+    font-size: 50px;
+}
+/* Nav Bar */
+.navbar{
+  border-radius: 0;
+}
+
+/* Banner */
+.banner{
+  padding: 0 0 0 0 ;
+  margin-top: -20px;
+  text-align:center;
+  background-position: center center;
+  min-height:0px;
+  width: 100%;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.flex-caption{
+  margin-top: -100px;
+  font-size: 60px;
+  font-family: lato;
+  font-weight: normal;
+  color:white;
+}
+.flexslider{
+  border-width: 0;
+
+}
+/* Footer */
+.footer-black-bg {
+  background-color:#000;
+ }
+.footer-copyright-text {
+	color: white;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.footer-copyright-text a {
+	color: #FCDD44;
+}
+
+.footer-copyright-text a:hover {
+	color: white;
+}
+
+.full{
+    width:7%;
+    position: absolute;
+    left: 5%;
+    top: 20%; 
+}
